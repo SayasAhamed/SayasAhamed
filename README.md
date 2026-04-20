@@ -138,4 +138,4 @@
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=SayasAhamed&theme=tokyo-night)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
