@@ -121,7 +121,6 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 <div align ="center">
 
@@ -129,7 +128,9 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SayasAhamed/SayasAhamed/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/SayasAhamed/SayasAhamed/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SayasAhamed/SayasAhamed/output/github-snake.svg" />
+  <img src="github-snake" src="https://raw.githubusercontent.com/SayasAhamed/SayasAhamed/output/github-snake.svg" />
+  
 </picture>
 
 </div>
