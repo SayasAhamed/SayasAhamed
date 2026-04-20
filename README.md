@@ -36,44 +36,68 @@
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 ### 💻 Languages
+<p>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+---
 
 ### ⚙️ Backend
 ![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+
+---
 
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### 🤖 AI/ML
-![YOLO](https://img.shields.io/badge/YOLOv8-FF6F00?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
+### 🤖 AI/ML
+![YOLOv8](https://img.shields.io/badge/YOLOv8-FF6F00?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Random Forest](https://img.shields.io/badge/Random_Forest-4CAF50?style=for-the-badge)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC0000?style=for-the-badge)
+![SVM](https://img.shields.io/badge/SVM-008080?style=for-the-badge)
+
+</p>
+</div>
+
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|--------|------------|------|
-| ⚽ Football Analysis | Player & ball tracking using computer vision | Python, YOLOv8 |
-| 🍅 Tomato Disease Detection | ML-based plant disease detection system | React, Flask |
-| 💳 Banking App | Fintech system with API integrations | Next.js, Plaid, Dwolla |
-| 🌦 Weather Alert System | Real-time alert system using APIs | ASP.NET Core |
-| 🧾 Warranty Manager | Desktop app with authentication & PDF processing | Python, PyQt |
-| 🌐 Social Network | Full-stack messaging platform | PHP, MySQL |
+| Project | Description | Tech | Link |
+|--------|------------|------|------|
+| ⚽ Football Analysis | Player & ball tracking using computer vision | Python, YOLOv8 | [View](https://github.com/SayasAhamed/football_analysis) |
+| 🍅 Tomato Disease Detection | ML-based plant disease detection system | React, Flask | [View](https://github.com/SayasAhamed/Tomato-disease-detection) |
+| 💳 Banking App | Fintech system with API integrations | Next.js, Plaid, Dwolla | [View](https://github.com/SayasAhamed/banking) |
+| 🌦 Weather Alert System | Real-time alert system using APIs | ASP.NET Core | [View](https://github.com/SayasAhamed/Weather-Alert-Management) |
+| 🧾 Warranty Manager | Desktop app with authentication & PDF processing | Python, PyQt | [View](https://github.com/SayasAhamed/warranty_manager) |
+| 🌐 Social Network | Full-stack messaging platform | PHP, MySQL | [View](https://github.com/SayasAhamed/social_network) |
 
 ---
 
@@ -98,6 +122,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
+<div align ="center">
 
 ## 🐍 Contribution Snake
 
@@ -106,6 +131,10 @@
   <img src="https://raw.githubusercontent.com/SayasAhamed/SayasAhamed/output/github-snake.svg" />
 </picture>
 
+</div>
+
 ## 🔥 Contribution Graph
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=SayasAhamed&theme=tokyo-night)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
