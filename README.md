@@ -95,11 +95,11 @@
 |--------|------------|------|------|
 | ⚽ Football Analysis | Player & ball tracking using computer vision | Python, YOLOv8 | [View](https://github.com/SayasAhamed/football_analysis) |
 | 🍅 Tomato Disease Detection | ML-based plant disease detection system | React, Flask | [View](https://github.com/SayasAhamed/Tomato-disease-detection) |
-| 💳 Banking App | Fintech system with API integrations | Next.js, Plaid, Dwolla | [View](https://github.com/SayasAhamed/banking) |
 | 🌦 Weather Alert System | Real-time alert system using APIs | ASP.NET Core | [View](https://github.com/SayasAhamed/Weather-Alert-Management) |
 | 🧾 Warranty Manager | Desktop app with authentication & PDF processing | Python, PyQt | [View](https://github.com/SayasAhamed/warranty_manager) |
-| 🌐 Social Network | Full-stack messaging platform | PHP, MySQL | [View](https://github.com/SayasAhamed/social_network) |
 | 🍽️ Restaurant Food Ordering System | Online system for browsing menu, placing orders, and managing cart | PHP, MySQL, JavaScript, Bootstrap | [View](https://github.com/SayasAhamed/Food-Order) |
+| 🌐 Social Network | Full-stack messaging platform | PHP, MySQL | [View](https://github.com/SayasAhamed/social_network) |
+| 💳 Banking App | Fintech system with API integrations | Next.js, Plaid, Dwolla | [View](https://github.com/SayasAhamed/banking) |
 | 🎮 2D Platform Game | 2D game with player movement, jumping, collision detection, and scoring system | Unity Engine, C# | [View](https://github.com/SayasAhamed/Level-Design-Start.git) |
 
 ---
