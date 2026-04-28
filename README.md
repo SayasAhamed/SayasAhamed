@@ -99,7 +99,6 @@
 | 🧾 Warranty Manager | Desktop app with authentication & PDF processing | Python, PyQt | [View](https://github.com/SayasAhamed/warranty_manager) |
 | 🍽️ Restaurant Food Ordering System | Online system for browsing menu, placing orders, and managing cart | PHP, MySQL, JavaScript, Bootstrap | [View](https://github.com/SayasAhamed/Food-Order) |
 | 🌐 Social Network | Full-stack messaging platform | PHP, MySQL | [View](https://github.com/SayasAhamed/social_network) |
-| 💳 Banking App | Fintech system with API integrations | Next.js, Plaid, Dwolla | [View](https://github.com/SayasAhamed/banking) |
 | 🎮 2D Platform Game | 2D game with player movement, jumping, collision detection, and scoring system | Unity Engine, C# | [View](https://github.com/SayasAhamed/Level-Design-Start.git) |
 
 ---
